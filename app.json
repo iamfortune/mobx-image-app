@@ -1,0 +1,17 @@
+{
+  "name": "StockPhotoBrowser",
+  "displayName": "StockPhotoBrowser",
+  "expo": {
+    "name": "StockPhotoBrowser",
+    "slug": "StockPhotoBrowser",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
